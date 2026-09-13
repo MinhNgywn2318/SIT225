@@ -1,0 +1,6 @@
+dash>=2.9
+plotly
+numpy
+pandas
+arduino-iot-cloud
+python-dotenv
